@@ -256,3 +256,4 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 
 ### Other Resources
 - [Ethereum List](https://github.com/Scanate/Ethlist)
+- [NanoStack](https://api.nano-labs.io) - Cross-chain execution API for native token swaps across 80+ chains
